@@ -10,7 +10,7 @@ on:
       
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest #Phiên bản ubuntu mới nhất
 
     steps:
       - name: Checkout repository
