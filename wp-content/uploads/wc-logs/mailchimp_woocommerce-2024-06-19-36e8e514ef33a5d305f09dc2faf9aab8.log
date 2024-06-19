@@ -1,0 +1,17 @@
+2024-06-19T14:28:43+00:00 NOTICE webhooks :: Ran plugin updater
+2024-06-19T14:31:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 59
+2024-06-19T14:31:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 61
+2024-06-19T14:31:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 63
+2024-06-19T14:31:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 65
+2024-06-19T14:31:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 67
+2024-06-19T14:31:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 69
+2024-06-19T14:32:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 74
+2024-06-19T14:35:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 74
+2024-06-19T14:43:12+00:00 NOTICE handleOrderUpdate :: order_status
+2024-06-19T14:43:12+00:00 NOTICE handleOrderUpdate :: order_status
+2024-06-19T14:43:58+00:00 NOTICE handleOrderUpdate :: order_status
+2024-06-19T14:43:58+00:00 NOTICE handleOrderUpdate :: order_status
+2024-06-19T14:43:58+00:00 NOTICE handleOrderUpdate :: order_status
+2024-06-19T15:27:29+00:00 NOTICE handleOrderUpdate :: order_status
+2024-06-19T15:27:29+00:00 NOTICE handleOrderUpdate :: order_status
+2024-06-19T15:27:29+00:00 NOTICE handleOrderUpdate :: order_status
