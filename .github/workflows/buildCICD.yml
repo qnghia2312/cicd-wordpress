@@ -3,10 +3,11 @@ name: CI/CD for WordPress
 on:
   push:
     branches:
-      - main  
+      - main  #khi có push lên nhánh main
   pull_request:
     branches:
-      - main  
+      - main  #khi có pull nhánh main
+      
 jobs:
   build:
     runs-on: ubuntu-latest
